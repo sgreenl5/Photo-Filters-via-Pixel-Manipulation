@@ -20,4 +20,5 @@ Shinker
 
 
 The resulting image is one pnm file with all of the filter's outcomes side by side. The input image is called Input.pnm and 
-the output, after being converted to a png file for easy access, is called FilterOutcome.png. 
+the output, after being converted to a png file for easy access, is called FilterOutcome.png. File logger will show the 
+steps taken during excecution.
