@@ -1,5 +1,8 @@
 # Photo-Filters-via-Pixel-Manipulation
-A C script using structs to read in an input pnm file and produce a manipulated output pnm image using pixel manipulation.
+
+Spring 2017, written in C
+
+A collection of scripts using structs to read in an input pnm file and produce a manipulated output pnm image using pixel manipulation.
 
 This is the final project for the Computer Science course C/C++ and Unix. It takes an input pnm file, in this case our UO Logo,
 and performs a series of actions on the photo. The filters are predetermined in the main3G.c file, and include:
