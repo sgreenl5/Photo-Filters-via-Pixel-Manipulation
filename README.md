@@ -13,10 +13,10 @@ Rotate,
 Subtract, 
 Blur, 
 Constant Color, 
-Right Left Concatinate, 
-Left Right Concatinate, 
-Top Bottom Concatinate, and
-Shinker
+Right Left Concatenate, 
+Left Right Concatenate, 
+Top Bottom Concatenate, and
+Shrink
 
 
 The resulting image is one pnm file with all of the filter's outcomes side by side. The input image is called Input.pnm and 
